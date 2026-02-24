@@ -8,3 +8,7 @@ label = tk.Label(root, text="Tic Tac Toe Game")
 label.pack()
 
 root.mainloop()
+
+def check_winner(board):
+    # TODO: Implement win logic
+    pass
